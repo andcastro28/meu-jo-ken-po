@@ -1,0 +1,10 @@
+Yu-Gi-Oh Jo-Ken-po Edition
+
+div.bg-video+div.container>(div.container_left+div.container_right)
+
+div.score_box+.menu_avatar+.card_details
+
+span#score_points
+
+p#card-name+p#card-type
+
